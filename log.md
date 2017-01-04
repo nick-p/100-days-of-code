@@ -1,24 +1,5 @@
 # 100 Days Of Code - Log
 
-~~### Day 0: February 30, 2016 (Example 1)~~
-~~##### (delete me or comment me out)~~
-
-~~**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.~~
-
-~~**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.~~
-
-~~**Link to work:** [Calculator App](http://www.example.com)~~
-
-~~### Day 0: February 30, 2016 (Example 2)~~
-~~##### (delete me or comment me out)~~
-
-~~**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.~~
-
-~~**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.~~
-
-~~**Link(s) to work**: [Calculator App](http://www.example.com)~~
-
-
 ### Day 1: January 04 2017, Wednesday
 
 **Today's Progress**: I've set up my GitHub repo for 100 Days of Code. Started work on the Free Code Camp Random Quote Generator, the first Intermediate Front End Development project. I set up the basic page structure with a placeholder for the quote and buttons for Twitter and New Quote.
@@ -31,6 +12,6 @@ I've also quickly become aware that I need to learn how to properly use GitHub, 
 
 As a bonus, updating this file is introducing me to Markdown, something that I've always thought would be useful to learn but have never been sure about what I would use it for.
 
-~~**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)~~
+**Evening update** I spent some more time trying to get to grips with GitHub. I looked at a tutorial for using Terminal but I think it's too much extra for me to try and understand right now. I had a play with GitHub desktop instead and I seem to be slowly becoming familiar with that. If I can get into a workflow of editor --> GitHub desktop --> GitHub repo I'll be happy.
+
+
