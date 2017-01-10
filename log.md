@@ -21,3 +21,9 @@ As a bonus, updating this file is introducing me to Markdown, something that I'v
 I did do some coding on Day 2. I started off with continuing the Random Quote Generator, but in revisiting JSON objects I realised I had an incomplete challenge from earlier in Free Code Camp, the Profile Lookup. This was part of the Basic Javascript challenges, related to getting the value of a specified property from a JS object. After a bit of playing around, and a couple of visits to Stack Overflow to read up on the hasOwnProperty method, the challenge was complete.
 
 **Thoughts** I remembered a couple of previous times having looked at my Free Code Camp progress and having the Profile Lookup outstanding, so it was good to get it ticked off and the Basic Javascript section marked as complete. I remember struggling with that one for a while previously, but I seemed to understand it better this time round - even though I needed to use Read-Search-Ask (as encouraged by FCC) I knew what I was searching for and understood the answers that I found.
+
+### Day 3: January 10 2017, Tuesday
+
+**Today's Progress**: I followed up on my change of tack by not doing any coding but instead reading some articles on Free Code Camp's Medium site. I started out reading a piece on the Ziegarnik Effect, in which a piece of work (e.g. code) is left unfinished in order to better understand it on resumption. I then followed this up by starting an in-depth piece on Flexbox - and following the previous piece's advice by stopping part way through, to resume tomorrow. 
+
+**Thoughts** Flexbox is something I've heard about on many occasions, but never explored. The introductory sections I read today - while writing some very brief code samples - are very encouraging, and I've already seen how I can use it for the styling of my Random Quote Generator.
